@@ -1,7 +1,7 @@
-plotly.express
 streamlit
 pandas
 numpy
+plotly
 matplotlib
-scikit-learn
+wordcloud
 nltk
